@@ -1,0 +1,8 @@
+site_name: SpikingViT引导文档
+
+nav:
+  - 模型简介: index.md
+  - 模型引导: about.md
+  - 关于作者: author.md
+  - 致谢: thanks.md
+
